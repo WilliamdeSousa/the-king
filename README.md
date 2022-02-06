@@ -1,7 +1,7 @@
 # The King
- Jogo plataforma feito no Construct 2
+ Jogo plataforma feito no Construct 2 para computadores e smartphones. 
  
  Autor: William de Sousa Costa
  Data: 10/08/2019
 
- Disponível no [itch.io](https://spell-and-monster-games.itch.io/the-king)
+ Disponível em [itch.io](https://spell-and-monster-games.itch.io/the-king)
